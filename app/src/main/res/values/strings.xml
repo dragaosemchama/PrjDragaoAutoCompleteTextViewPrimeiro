@@ -1,0 +1,11 @@
+<!-- Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
+Código: Primeiro Exemplo do componente AutoCompleteTextView
+Autor: Márcio Albuquerque
+Email: o.marcio.albu@gmail.com
+Data: Junho/2016
+-->
+<resources>
+    <string name="app_name"> DsC: Autocomplemento </string> <!-- Nome do aplicativo -->
+    <string name="digitar_o_mes">Digite o Mês</string>      <!-- Texto informativo ao usuário -->
+    <string name="logo_do_dragao">Logo do dragão</string>   <!-- Descrição da Imagem View -->
+</resources>
